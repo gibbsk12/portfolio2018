@@ -245,6 +245,10 @@
   color: rgba(255, 255, 255, 0.3);
 }
 
+.repo-section a{
+  color: #fff !important
+}
+
 .contact-section .social a:hover {
   color: rgba(255, 255, 255, 0.5);
 }
@@ -282,3 +286,4 @@ a:focus, a:hover {
 footer {
   padding: 5rem 0;
 }
+
